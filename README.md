@@ -14,7 +14,7 @@
 </p>
 <p align="center">
   <!-- <samp> -->
-  <img src="https://count.getloli.com/@:kyojin22" alt=":kyojin22" />
+  <img src="https://count.getloli.com/@:kyojin22" alt=":kyojin22" title="Total visitors so far" />
   <!-- ![:kyojin22](https://count.getloli.com/@:kyojin22?name=%3Akyojin22&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto) -->
   <!-- </samp> -->
 </p>
