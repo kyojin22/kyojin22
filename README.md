@@ -12,11 +12,12 @@
     <a href="https://vk.com/kyojin22">vk</a>
   </samp>
 </p>
-<!-- <p align="center">
-  <samp>
-    ![Visitor Count](https://count.getloli.com/get/@:kyojin22)
-  </samp>
-</p> -->
+<p align="center">
+  <!-- <samp> -->
+  <img src="https://count.getloli.com/@:kyojin22" alt=":kyojin22" />
+  <!-- ![:kyojin22](https://count.getloli.com/@:kyojin22?name=%3Akyojin22&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto) -->
+  <!-- </samp> -->
+</p>
 <!-- <h6 align="center">
   <samp>
     [HTML] .
