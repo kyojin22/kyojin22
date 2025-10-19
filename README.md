@@ -12,6 +12,11 @@
     <a href="https://vk.com/kyojin22">vk</a>
   </samp>
 </p>
+<p align="center">
+  <samp>
+    ![Visitor Count](https://count.getloli.com/get/@:kyojin22)
+  </samp>
+</p>
 <!-- <h6 align="center">
   <samp>
     [HTML] .
