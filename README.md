@@ -2,12 +2,13 @@
   <samp>
     <a href="https://muhammadbobur.uz">me</a> .
 <!--     <a href="https://hc-b666me-bobbys-projects-8a5a6d30.vercel.app/projects">projects</a> . -->
-    <a href="https://leetcode.com/u/kyojin22">lc1</a> .
-    <a href="https://leetcode.com/u/andyboi">lc2</a> .
+    <a href="https://leetcode.com/u/kyojin22">leetcode</a> .
+    <!-- <a href="https://leetcode.com/u/andyboi">lc2</a> . -->
     <a href="https://codeforces.com/profile/hc-b666">codeforces</a> .
     <a href="https://www.linkedin.com/in/muhammadbobur-abdukarimov/">linkedin</a> .
 <!--     <a href="https://www.instagram.com/kyojin22">instagram</a> . <!-- inactive -->
-    <a href="https://discordapp.com/users/1239424605534421022">discord</a> . <!-- Something is wrong with discord link, however this is my correct user id, xD -->
+    <a href="https://discord.com/users/1239424605534421022">discord</a> .
+    <!-- <a href="https://discordapp.com/users/1239424605534421022">discord</a> . -->
     <a href="https://mastodon.social/@kyo_1">mastadon</a> .
     <a href="https://monkeytype.com/profile/kyojin22">monkeytype</a> .
     <a href="https://vk.com/kyojin22">vk</a>
