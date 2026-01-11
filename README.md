@@ -8,6 +8,7 @@
     <a href="https://codeforces.com/profile/hc-b666">codeforces</a> .
     <a href="https://www.linkedin.com/in/muhammadbobur-abdukarimov/">linkedin</a> .
 <!--     <a href="https://www.instagram.com/kyojin22">instagram</a> . <!-- inactive -->
+    <a href="https://bsky.app/profile/muhammadbobur.bsky.social">bluesky</a> .
     <a href="https://discord.com/users/1239424605534421022">discord</a> .
     <!-- <a href="https://discordapp.com/users/1239424605534421022">discord</a> . -->
     <a href="https://mastodon.social/@kyo_1">mastadon</a> .
