@@ -1,6 +1,7 @@
 <p align="center">
   <samp>
     <a href="https://muhammadbobur.uz">me</a> .
+    <a href="https://duche.neocities.org">neocities</a> .
 <!--     <a href="https://hc-b666me-bobbys-projects-8a5a6d30.vercel.app/projects">projects</a> . -->
     <a href="https://leetcode.com/u/kyojin22">leetcode</a> .
     <!-- <a href="https://leetcode.com/u/andyboi">lc2</a> . -->
@@ -14,12 +15,12 @@
     <a href="https://vk.com/kyojin22">vk</a>
   </samp>
 </p>
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <samp> -->
-  <img src="https://count.getloli.com/@:kyojin22" alt=":kyojin22" title="Total visitors so far" />
+  <!-- <img src="https://count.getloli.com/@:kyojin22" alt=":kyojin22" title="Total visitors so far" /> -->
   <!-- ![:kyojin22](https://count.getloli.com/@:kyojin22?name=%3Akyojin22&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto) -->
   <!-- </samp> -->
-</p>
+<!-- </p> -->
 <!-- <h6 align="center">
   <samp>
     [HTML] .
