@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <a href="https://muhammadbobur.uz">me</a> .
-    <a href="https://duche.neocities.org">neocities</a> .
+    <!-- <a href="https://duche.neocities.org">neocities</a> . -->
 <!--     <a href="https://hc-b666me-bobbys-projects-8a5a6d30.vercel.app/projects">projects</a> . -->
     <a href="https://leetcode.com/u/kyojin22">leetcode</a> .
     <!-- <a href="https://leetcode.com/u/andyboi">lc2</a> . -->
