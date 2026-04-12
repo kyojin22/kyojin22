@@ -12,8 +12,8 @@
     <a href="https://discord.com/users/1239424605534421022">discord</a> .
     <!-- <a href="https://discordapp.com/users/1239424605534421022">discord</a> . -->
     <a href="https://mastodon.social/@kyo_1">mastadon</a> .
-    <a href="https://monkeytype.com/profile/kyojin22">monkeytype</a> .
-    <a href="https://vk.com/kyojin22">vk</a>
+    <a href="https://monkeytype.com/profile/kyojin22">monkeytype</a>
+    <!-- <a href="https://vk.com/kyojin22">vk</a> -->
   </samp>
 </p>
 <!-- <p align="center"> -->
